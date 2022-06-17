@@ -5,6 +5,9 @@ console.log("frase :" + frase);
 
 setInterval( cambiarSaludo, 2000);
 
+/**
+ * Cambia la frase en el titulo h2
+ */
 function cambiarSaludo() {
   //console.log("Me parece una falta de respecto");
   //Estoy asignando a una  variable el valor de h2
